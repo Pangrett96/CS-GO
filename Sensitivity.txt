@@ -1,0 +1,2 @@
+400 DPI : 2 in-game
+800 DPI : 1 in-game
